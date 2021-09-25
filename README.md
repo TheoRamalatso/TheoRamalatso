@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
 
 **Databases**
 
