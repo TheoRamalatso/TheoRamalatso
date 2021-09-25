@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 # My Statistics:
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
 </p> -->
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=temirovazat&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Azat's github top-langs" width="49.5%">
