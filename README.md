@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mysql)
+![MySql](https://img.shields.io/badge/-mysql-FCA121?style=flat-square&logo=mysql)
 
 **Tools**
 
