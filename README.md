@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/master/coding.gif?raw=true" width="600" height="280" />
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+
+**Databases**
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Mongodb](https://img.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mongodb)
+![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=redis)
+
