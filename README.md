@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="460" height="440" />
+
 **Back-end**
 
 ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
