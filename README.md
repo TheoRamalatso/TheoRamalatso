@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="520" height="380" />
+<img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="420" height="380" />
 
 **Back-end**
 
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 <!-- <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
 </p>  -->
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="45%">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="40%">
 </p>
