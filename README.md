@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="420" height="380" />
 
 **Back-end**
-<div style="width="420" height="380"">
+
 ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
-<div>
+
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
