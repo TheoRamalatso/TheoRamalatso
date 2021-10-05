@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 
 <hr />
  <div align="center">
-  <img align="center" height="170" width="320" align="left" src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&count_private=true&include_all_commits=true&theme=dracula" />
   <img align="center" height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
 </div>
