@@ -42,3 +42,10 @@ Here are some ideas to get you started:
 </p>  -->
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="40%">
 </p>
+
+
+<hr />
+ <div align="center">
+  <img align="center" height="170" width="320" align="left" src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&count_private=true&include_all_commits=true&theme=dracula" />
+  <img align="center" height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
+</div>
