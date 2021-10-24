@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="420" height="380" /> -->
-  <img align="right" height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
+  <img align="right" height="270" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
   
 
   
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
 <!-- # My Statistics: -->
-**Statistics**
+<!-- **Statistics**
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs"  height="170" width="320">
-</p>
+</p> -->
 
