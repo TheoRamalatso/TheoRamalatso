@@ -1,6 +1,8 @@
 ### Hi there 👋 I’m Theo.
- 🔭 I’m currently working on Web Apps 
-- 🌱 I’m currently learning Web Programming & enhancing Algorithms Skills
+-👨‍💻  Java Enthusiast
+-🌐  currently working on Web Applications 
+-❓   Enhancing Problem Solving Skills
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
