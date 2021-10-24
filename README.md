@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
 </p>  -->
-<img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="40%">
+<img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs"  height="170" width="320">
 </p>
   
 **Back-end**
