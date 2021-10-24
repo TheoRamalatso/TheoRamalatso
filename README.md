@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 <!-- <img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="420" height="380" /> -->
   <img align="right" height="170" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
   
+  # My Statistics:
+<!-- <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
+</p>  -->
+<img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="40%">
+</p>
+  
 **Back-end**
 
 ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
@@ -37,12 +44,7 @@ Here are some ideas to get you started:
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
 
-# My Statistics:
-<!-- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
-</p>  -->
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs" width="40%">
-</p>
+
 
 
 <hr />
