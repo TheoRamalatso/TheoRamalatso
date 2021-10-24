@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <!-- # My Statistics: -->
 **Statistics**
-<img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs"  height="170" width="320">
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs"  height="170" width="320">
 </p>
 
