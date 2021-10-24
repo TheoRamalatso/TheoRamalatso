@@ -38,11 +38,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
-
-  # My Statistics:
-<!-- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheoRamalatso&show_icons=true&count_private=true&include_all_commits=true&&theme=nord&color=FFFFF0" alt="Theo's github Statistics"  width="49.5%"/>
-</p>  -->
+# My Statistics:
 <img align="right" src = "https://github-readme-streak-stats.herokuapp.com?user=TheoRamalatso&layout=compact&color=FFFFF0,&theme=nord&color=FFFFF0" alt="Theo's github top-langs"  height="170" width="320">
 </p>
 
