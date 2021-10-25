@@ -29,7 +29,7 @@
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
