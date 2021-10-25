@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+
 
 **Databases**
 
