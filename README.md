@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Theo.
--👨‍💻  Java Enthusiast  
--🌐  currently working on Web Applications 
+-👨‍💻  Oak  Enthusiast  
+-🌐  currently working on Web Programming  
  
 
 <!-- - 👯 I’m looking to collaborate on ...
