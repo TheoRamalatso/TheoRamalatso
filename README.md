@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Theo.
--👨‍💻  Java Enthusiast
+-👨‍💻  Java Enthusiast  
 -🌐  currently working on Web Applications 
--❓   Enhancing Problem Solving Skills
+ 
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
