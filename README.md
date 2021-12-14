@@ -1,5 +1,5 @@
 ### Hi there 👋 I’m Theo.
--👨‍💻  Oak  Enthusiast  
+-👨‍💻  Programmer
 -🌐  currently working on Web Programming  
  
 
