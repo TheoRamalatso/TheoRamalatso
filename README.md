@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Theo.
--👨‍💻  Programmer
+<!-- -👨‍💻  Programmer
 
--🌐  currently working on Web Programming  
+-🌐  currently working on Web Programming   -->
  
 
 <!-- - 👯 I’m looking to collaborate on ...
@@ -22,11 +22,11 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 
-
+<!-- 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-mysql-FCA121?style=flat-square&logo=mysql)
+![MySql](https://img.shields.io/badge/-mysql-FCA121?style=flat-square&logo=mysql) -->
 
 **Tools**
 
