@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... -->
 
 <!-- <img align="right" alt="GIF" src="https://github.com/TheoRamalatso/TheoRamalatso/blob/main/5eKX.gif" width="420" height="380" /> -->
-  <img align="right" height="270" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
+  <img align="canter" height="270" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
   
 
   
@@ -28,11 +28,11 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/-mysql-FCA121?style=flat-square&logo=mysql) -->
 
-**Tools**
+<!-- **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
+![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio) -->
 
 <!-- # My Statistics: -->
 <!-- **Statistics**
