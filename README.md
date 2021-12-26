@@ -15,8 +15,8 @@
   <img align="canter" height="270" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRamalatso&layout=compact&theme=dracula&show_icons=true"/>
   
 
-  
-**Back-end**
+<!--   
+**Back-end** -->
 
 <!-- ![Java](https://img.shields.io/badge/Java-Se-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/Javascript-blue?style=flat-square&logo=javascript)
